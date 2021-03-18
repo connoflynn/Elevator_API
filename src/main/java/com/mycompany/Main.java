@@ -108,7 +108,7 @@ public class Main {
 				changeFloor(userElevator);
 				System.out.println("You have arrived!");
 				break;
-			case "-commands":
+			case "-h":
 				System.out.println("Commands:");
 				System.out.println("-cu (create user) <username> <building>");
 				System.out.println("-mu (modify user) <userID> <username> <building>");
